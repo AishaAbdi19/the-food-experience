@@ -6,12 +6,6 @@ body {
     font-family: Poppins, sans serif, times new roman;
 }
 
-img {
-    padding: 10px;
-    width: 350px;
-    height: auto;
-}
-
 h1 { 
     text-align: center;
     font-size: 2em;
